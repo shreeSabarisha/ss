@@ -20,3 +20,11 @@ padding-left: 9px;
 padding-right: 9px;
 padding-bottom: 5px;
 font-size: 25px;}
+#myself{display: table-cell; position: relative; text-align: center; vertical-align: middle;}
+p{max-width: 450px; margin: 25px auto; font-size: 17px; line-height: 1.3;color: rgb(66, 66, 99);}
+#bio{background-color: deeppink;}
+#hobbies {background-color: deepskyblue;}
+#work {background-color: mediumslateblue;}
+#vidoe {background-color: plum;}
+#inspration {background-color: skyblue;}
+#Contact {background-color: orchid;}
